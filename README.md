@@ -3,7 +3,7 @@
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
 
-
+This is an exercise which follows to this course
 [Demo Video of this repo](https://www.youtube.com/watch?v=4gbUYOgALik)
 
 ### To use my project you can do this
