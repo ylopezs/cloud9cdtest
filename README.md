@@ -1,9 +1,9 @@
-![Python application test with Github Actions](https://github.com/noahgift/github-actions-demo/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+[![AWS 3.6.12](https://github.com/ylopezs/cloud9cdtest/actions/workflows/aws.yml/badge.svg)](https://github.com/ylopezs/cloud9cdtest/actions/workflows/aws.yml)
 
 # github-actions-demo
 This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
 
-
+This is an exercise which follows to this course
 [Demo Video of this repo](https://www.youtube.com/watch?v=4gbUYOgALik)
 
 ### To use my project you can do this
